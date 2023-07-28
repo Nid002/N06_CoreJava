@@ -14,7 +14,7 @@ public class SwitchExecutor {
 			break;
 		
 		case 2:
-			System.out.println("Better");
+			System.out.println("Vibez");
 			break;
 		
 		case 3:
